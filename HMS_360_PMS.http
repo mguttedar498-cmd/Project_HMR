@@ -1,0 +1,6 @@
+@HMS_360_PMS_HostAddress = http://localhost:5241
+
+GET {{HMS_360_PMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
